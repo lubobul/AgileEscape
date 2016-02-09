@@ -2,7 +2,7 @@
 2D arcade game using SDL
 
 
-[b]Dependencies[/b]
+## Dependencies
 
 Statically link your project with SDL 2.0 and its supplementary libraries SDL2_mixer and SDL2_image.
 
